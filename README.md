@@ -1,6 +1,10 @@
-# Opdrachtomschrijving
 
-Zoals je hebt geleerd kun je met flexbox HTML elementen op diverse manier uitlijnen, maar ook complexe layouts maken.
+# Front End Les 3. feb '23
+## Versiebeheer
+<kbd>0.0.0</kbd> Github aangemaakt.
+
+## Opdrachtomschrijving
+bt geleerd kun je met flexbox HTML elementen op diverse manier uitlijnen, maar ook complexe layouts maken.
 In de eerste opdracht ga je vooral de children (flex items) binnen de parent (flex container) uitlijnen. In het tweede
 deel ga je complexere layouts bouwen door gebruik te maken van properties als `flex-basis`, `flex-grow` en `flex-shrink`. In de derde opdracht laten we je los: dan ga je een simpele webpagina maken met flexbox.
 .
